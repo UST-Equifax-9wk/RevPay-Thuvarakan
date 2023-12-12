@@ -1,4 +1,4 @@
-package com.example.RevPay;
+package Revature.RevPay;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

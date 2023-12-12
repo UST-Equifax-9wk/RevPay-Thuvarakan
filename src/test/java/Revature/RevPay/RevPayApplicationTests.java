@@ -1,4 +1,4 @@
-package com.example.RevPay;
+package Revature.RevPay;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
