@@ -18,6 +18,9 @@ target/
 *.iws
 *.iml
 *.ipr
+*.JAR
+*.WAR
+*.EAR
 
 ### NetBeans ###
 /nbproject/private/
@@ -29,6 +32,13 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+*.iml
+target/
+dist/
+.idea/
+
+
+*.class
 ### VS Code ###
 .vscode/
 *.properties
