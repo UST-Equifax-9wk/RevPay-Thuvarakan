@@ -1,4 +1,2 @@
 ## Summary
-The RevPay initiative is dedicated to 
-
-## Testing
+The RevPay initiative is dedicated to crafting an innovative financial application that prioritizes security, user-friendliness, and adaptability for a diverse range of users, including individuals and businesses. Within personal accounts, users can effortlessly send or request money, seamlessly integrate credit and debit cards, and access a comprehensive transaction history. For business accounts, an expanded array of features is available, encompassing capabilities such as loan applications and the facilitation of customer payments.
